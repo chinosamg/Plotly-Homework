@@ -1,4 +1,4 @@
-#MY HEDOKU APP
+# My Heroku App
 
 https://warm-journey-13068.herokuapp.com/
 
